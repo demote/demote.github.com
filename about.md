@@ -14,7 +14,9 @@ This site is a personal page hosted on github pages.
 
 # Contact
 
--[github](github.com/demote)
--[weibo](weibo.com/demote)
+-[github](http://www.github.com/demote)
+
+-[weibo](http://www.weibo.com/demote)
+
 -[email](mailto:jiang.ji@hotmail.com)
 
