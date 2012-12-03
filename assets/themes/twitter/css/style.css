@@ -69,6 +69,4 @@ html, body {
 	color:#FFF;
 }
 	
-h2 {
-  background: #F0F0F0;
-}
+.comments { font-size: smaller; position: absolute; color: silver; right: 0; top: 0; }

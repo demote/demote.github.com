@@ -5,13 +5,15 @@ title: Blog
 {% include JB/setup %}
 
 ## Thoughts, Traces, Memos...
+-
+
 This is the place where I write down some of my thoughts(mostly technical) as well as some memos. 
 
 If you find ANY error, you are more than welcome to [tell me](/about.html) about it. 
 
 Some posts might be trivial and/or boring, just IGNORE them.
 
-## recent post
+### recent post
 
 <ul class="posts">
   {% for post in site.posts %}
@@ -19,4 +21,6 @@ Some posts might be trivial and/or boring, just IGNORE them.
   {% endfor %}
 </ul>
 
-You can also find all past posts [here](/archive.html).
+You can also find all past posts [here](/archive.html) or click "Archive" in front of the page.
+
+-
