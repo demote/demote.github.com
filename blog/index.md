@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog
+top: JiangJi
 ---
 {% include JB/setup %}
 
