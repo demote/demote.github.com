@@ -33,7 +33,7 @@ If you have troubles viewing this site, try using another web browser like Chrom
 ### here are some recent posts
 
 <ul class="posts">
-  {% for post in site.categories.blog %}
+  {% for post in site.categories.blog limit:5 %}
     <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{ BASE_PATH }}{{ post.url }}">{{ post.title }}</a></li>
   {% endfor %}
 </ul>
