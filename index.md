@@ -40,13 +40,16 @@ If you have troubles viewing this site, try using another web browser like Chrom
 
 ---
 
+I also maintain a [DIGEST](/digest) which contains contents that are collected from Internet, et al.. Most of them are links to original page and some are reproduced copies  for personal memos and/or backup just in case. These reproduced copies are explicitly noted. If any content violates your rights, [contact me](/about.html) and I will remove it as soon as possible, sorry about that.
+
+---
+
 ## current situation
 
-I am now looking for a job, and if you are interested in my resume:
+I am not eagerly looking for a job, but if you are interested in my resume:
 
 -[.html](/resume.html)
 
--[.pdf](/resume.pdf)
 
 Email me: [jiang.ji@hotmail.com](mailto:jiang.ji@hotmail.com)
 

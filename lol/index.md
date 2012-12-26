@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Blog
+title: Invisible
 top: JiangJi
 ---
 {% include JB/setup %}
 
-## Trival...Sensitive...Memory...
+## Trival...Moods...Memory...
 -
 
 This is the place where I write down some of trivial stuff in my life.
 
-Well, you are not supposed to be here. However, if you find ANY error, you are still welcome to [tell me](/about.html) about it. 
+Well, you are not supposed to be here. Anyway, if you find ANY error, you are still welcome to [tell me](/about.html) about it. 
 
 ### recent post
 
