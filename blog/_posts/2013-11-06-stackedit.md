@@ -7,6 +7,11 @@ tags: []
 ---
 {% include JB/setup %}
 
+Discovering StackEdit is probably the biggest thing today. It is useful both for creating a post and scriblig some temporary notes. Below is [StackEdit's](https://stackedit.io/) official readme.
+
+---
+
+
 StackEdit
 =========
 
@@ -47,6 +52,10 @@ StackEdit is a free, open-source Markdown editor based on PageDown, the Markdown
  - [Welcome document][2]
  - [Developer guide][3]
  - [Theming guide][4]
+
+### Support StackEdit:
+
+[![Fund me on Gittip](https://www.gittip.com/assets/gittip.png)](https://www.gittip.com/stackedit/ "Fund me on Gittip")
 
 > **NOTE:** This page has been written and published with [StackEdit][5].
 
