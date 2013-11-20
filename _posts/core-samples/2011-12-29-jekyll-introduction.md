@@ -121,13 +121,13 @@ Jekyll expects your website directory to be laid out like so:
 	The assets folder represents _any generic_ folder you happen to create in your root directory.
 	Directories and files not properly formatted for jekyll will be left untouched for you to serve normally.
 
-(read more: <https://github.com/mojombo/jekyll/wiki/Usage>)
+(read more: https://github.com/mojombo/jekyll/wiki/Usage)
 
 
 ### Jekyll Configuration
 
 Jekyll supports various configuration options that are fully outlined here:
-<https://github.com/mojombo/jekyll/wiki/Configuration>
+https://github.com/mojombo/jekyll/wiki/Configuration
 
 
 
